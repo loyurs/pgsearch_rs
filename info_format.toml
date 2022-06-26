@@ -1,0 +1,9 @@
+[postgres]
+user = "xx"
+password = "xx"
+host = "xx"
+port = "xx"
+database = "xx"
+tablename = "xx"
+pool_nums = "10"
+#使用前将文件名改为info.toml
